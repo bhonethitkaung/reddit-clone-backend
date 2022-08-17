@@ -1,6 +1,8 @@
 # reddit-clone-backend
 Backend APIs for Reddit Clone Application using Spring Boot.
+
 This is a learning tutorial project from https://programmingtechie.com/2020/05/14/building-a-reddit-clone-with-spring-boot-and-angular.
+
 Implemented more validations, error handlings and security functions by myself.
 
 Security Functions
